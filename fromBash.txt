@@ -1,0 +1,3 @@
+this is adding from git bash
+
+this is testing
