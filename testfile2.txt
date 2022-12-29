@@ -1,0 +1,6 @@
+this is add ing  new file with  some text
+
+this is testing of git and github
+
+
+annd  new lines   and new file  
